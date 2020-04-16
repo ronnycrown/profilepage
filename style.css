@@ -1,0 +1,115 @@
+#container {
+  width: 80%;
+  margin: 0px auto;
+  background-color: #181818;
+  height: 1400px;
+  padding: 2%;
+}
+
+#image {
+  margin: 5%;
+}
+
+img {
+  width: 100%;
+  height: 600px;
+}
+
+#about {
+  background-color: #000;
+  margin: 5%;
+  height: 40%;
+  padding: 2%;
+}
+
+#welcome {
+  width: 30%;
+  color: #fff;
+}
+
+#biodata {
+  width: 30%;
+  color: #fff;
+  margin-left: 34%;
+  margin-top: -17%;
+}
+
+#interest {
+  width: 30%;
+  color: #fff;
+  margin-left: 68%;
+  margin-top: -24.2%;
+}
+
+h2 {
+  text-align: center;
+  font-family: tahoma;
+  color: #CC9900;
+}
+
+#contact {
+  background-color:	#303030;
+  height: 45%;
+  width: 95%;
+  margin-top: 10%;
+  border-radius: 15px;
+  padding: 1%;
+  margin-left: 1.5%;
+}
+
+#form {
+  margin-left: 3%;
+  width: 35%;
+  padding: 1%;
+  margin-top: -6%;
+}
+
+#form label {
+  color: #CC9900;
+  font-weight: bold;
+}
+
+#form input[type= text], input[type= email] {
+  width: 59%;
+}
+
+#btn {
+  width: 30%;
+  margin-left: 46%;
+  background-color: #CC9900;
+  color: #000;
+  border: none;
+  padding: 2%;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+h3 {
+  color: #CC9900;
+  font-family: tahoma;
+}
+
+p, span{
+  font-family: tahoma;
+  font-size: small;
+  text-align: justify;
+}
+
+footer {
+  color: #CC9900;
+  margin-top: -3%;
+  text-align: center;
+  font-weight: bold;
+}
+
+#text {
+  width: 50%;
+  color: #fff;
+  margin-left: 45%;
+  margin-top: -24%;
+}
+
+
+
+
+
